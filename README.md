@@ -13,13 +13,7 @@ This repository contains the code and documentation for the Prudential Life Insu
 **Precision Optimization**: Employed rigorous model parameter tuning and optimization methods such as gradient descent, achieving an impressive 89% accuracy with XGBoost Regression models.
 
 **Real-world Impact**: The project's outcomes contribute to informed decision-making strategies, operational efficiency, and data-driven excellence in the realm of insurance.
-## Folder Structure
 
-`data`: Contains the dataset used for the project.
-
-`notebooks`: Jupyter notebooks detailing the data preprocessing, model implementation, and evaluation.
-
-`scripts`: Python scripts for various data preprocessing and model training tasks.
 ## Usage
 
 - Clone the repository.
